@@ -1,5 +1,5 @@
 {
-    "name": "liron-li/heweather",
+    "name": "lazyuu/hweather",
     "description": "heweather sdk, weather-api",
     "type": "library",
     "require": {
@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Liron Li",
-            "email": "liron.li@outlook.com"
+            "name": "lazy",
+            "email": "729011771@qq.com"
         }
     ],
     "minimum-stability": "dev",
